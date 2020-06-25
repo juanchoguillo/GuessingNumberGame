@@ -11,3 +11,16 @@ C:\Users\vanes\source\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netc
 C:\Users\vanes\source\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.dll
 C:\Users\vanes\source\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.pdb
 C:\Users\vanes\source\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.genruntimeconfig.cache
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\bin\Debug\netcoreapp3.1\GuessingNumberGame.exe
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\bin\Debug\netcoreapp3.1\GuessingNumberGame.deps.json
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\bin\Debug\netcoreapp3.1\GuessingNumberGame.runtimeconfig.json
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\bin\Debug\netcoreapp3.1\GuessingNumberGame.runtimeconfig.dev.json
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\bin\Debug\netcoreapp3.1\GuessingNumberGame.dll
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\bin\Debug\netcoreapp3.1\GuessingNumberGame.pdb
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.csprojAssemblyReference.cache
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.AssemblyInfoInputs.cache
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.AssemblyInfo.cs
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.dll
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.pdb
+C:\Users\vanes\repos\GuessingNumberGame\GuessingNumberGame\obj\Debug\netcoreapp3.1\GuessingNumberGame.genruntimeconfig.cache

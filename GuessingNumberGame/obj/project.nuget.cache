@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+62d91wiaEXdc33wILvyrCkoZ46Jrn9fW9y+HdVsU72Qm8BAgFGy/gZKSY4VcFBDjK6AGkOoSWHMdg6w6rzg2w==",
+  "dgSpecHash": "I+HmS2PwGwc8ZSTYXfPFuTzI94yWEADSjF89lConiLShiwiBqFh2uD4HsafRTYwrJaFmOwgFtyeWhUuZ/1yGjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanes\\source\\repos\\GuessingNumberGame\\GuessingNumberGame\\GuessingNumberGame.csproj",
+  "projectFilePath": "C:\\Users\\vanes\\repos\\GuessingNumberGame\\GuessingNumberGame\\GuessingNumberGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
